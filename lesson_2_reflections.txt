@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 Git understand that your directory now is a git repository. It's necessary to make it become a repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging are is the place where you put your files to be commited later, while the working directory is where you have the files that you are working on.
