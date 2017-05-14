@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git understand that your directory now is a git repository. It's necessary to make it become a repository.
