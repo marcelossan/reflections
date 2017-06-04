@@ -6,3 +6,8 @@ the staging are is the place where you put your files to be commited later, whil
 
 How can you use the staging area to make sure you have one commit per logical change?
 When you make changes in different files but they are part of the same change, you can modify one of the files and then put it in the staging area, then you modify the other file and after that you also send it to the staging area before you commit the entire change that are the two files you've modified.
+
+
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+Quando você tem diferentes pessoas alterando diferentes partes de um projeto. Com branchs cada pessoa poderia trabalhar em sua alteração sem se preocupar com as alterações de outra pessoa, pelo menos no momento do desenvolvimento.
