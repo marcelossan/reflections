@@ -11,3 +11,7 @@ When you make changes in different files but they are part of the same change, y
 
 Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
 Quando você tem diferentes pessoas alterando diferentes partes de um projeto. Com branchs cada pessoa poderia trabalhar em sua alteração sem se preocupar com as alterações de outra pessoa, pelo menos no momento do desenvolvimento.
+
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Com os diagramas, fica mais claro como são organizados os commits e isso facilita a utilização de uma ferramenta de controle de versão.
