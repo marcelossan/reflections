@@ -15,3 +15,6 @@ Quando você tem diferentes pessoas alterando diferentes partes de um projeto. C
 
 Como os diagramas ajudam a visualizar a estrutura de branches?
 Com os diagramas, fica mais claro como são organizados os commits e isso facilita a utilização de uma ferramenta de controle de versão.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+O resultado da mesclagem de dois branches é um novo commit com as asterações dois dois branchs. A representação no diagrama foi feita dessa forma porque de uma forma geral isso é o que acontece, é como se dois caminhos separados se juntassem no final.
