@@ -1,0 +1,2 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+Quando for necessário compartilhar o código com outras pessoas, ou quando quiser evitar a perda do código da aplicação em caso de falhas no dispositico local.
